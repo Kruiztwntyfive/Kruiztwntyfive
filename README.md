@@ -1,4 +1,7 @@
 # ¡Hola, soy Kevin! 👋
+<p>
+un desarrollador web apasionado por el detalle que nadie ve (El Backend 😁) me gustan los retos y darles solucion y programando consigo muchos.
+</p>
 
 # Stack Técnico
 
