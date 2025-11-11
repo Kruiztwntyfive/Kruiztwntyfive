@@ -8,7 +8,10 @@
 Soy un Desarrollador Fullstack apasionado por la creación de Aplicaciones Web. Me impulsa la resolución de problemas y disfruto construyendo experiencias de usuario fluidas (Frontend) mientras garantizo que la arquitectura del Backend sea sólida, eficiente y escalable. <strong>Los desafíos son mi motor:</strong> cada línea de código es una solución que implemento en mis proyectos.
 </p>
 <p align="center">
-Puedes contactar conmigo por: <a href="[![kevingerardoruiz.2001@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevingerardoruiz.2001@gmail.com)">kevingerardoruiz.2001@gmail.com</a>
+Puedes contactar conmigo por: <br>
+    <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kevingerardoruiz.2001@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo vía Gmail web"/>
+    </a>
 </p>
 
 
