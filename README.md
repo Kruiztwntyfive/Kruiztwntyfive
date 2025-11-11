@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=880000&size=45&center=true&vCenter=true&width=1000&lines=Bienvenid@s+A+Mi+Laboratorio+Digital!.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=880000&size=45&center=true&vCenter=true&width=1000&lines=Bienvenid@s+A+Mi+Laboratorio+Digital!)
 
 ---
 
