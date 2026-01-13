@@ -24,7 +24,7 @@ Puedes contactar conmigo por: <br>
   </a>
 
   <a href="https://kevingedev.github.io/Kevingedev-portafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Badge" />
+    <img src="https://img.shields.io/badge/-Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portafolio Badge" />
   </a>
 </p>
 
