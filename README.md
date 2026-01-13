@@ -22,6 +22,9 @@ Puedes contactar conmigo por: <br>
   <a href="https://www.linkedin.com/in/kevinruizgutierrez/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-880000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href="[https://www.linkedin.com/in/kevinruizgutierrez/](https://kevingedev.github.io/Kevingedev-portafolio/" target="_blank">
+       PORTAFOLIO
+  </a>
 </p>
 
 <!-- <p align="center">
