@@ -22,17 +22,13 @@ Puedes contactar conmigo por: <br>
   <a href="https://www.linkedin.com/in/kevinruizgutierrez/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-880000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-
-  <a href="https://kevingedev.github.io/Kevingedev-portafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portafolio Badge" />
-  </a>
 </p>
 
-<!-- <p align="center">
-  <a href="#">
-    PORTAFOLIO EN PROCESO
+<p align="center">
+  <a href="kevinge-dev.vercel.app">
+    PORTAFOLIO
   </a>
-</p> -->
+</p>
 
 
 # Tecnologías y Herramientas
