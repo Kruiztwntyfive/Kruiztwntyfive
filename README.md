@@ -26,7 +26,7 @@ Puedes contactar conmigo por: <br>
 
 <p align="center">
   <a href="kevinge-dev.vercel.app">
-    PORTAFOLIO
+    <img src="https://img.shields.io/badge/PORTFOLIO-EF4444?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
