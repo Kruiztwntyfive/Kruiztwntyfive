@@ -72,7 +72,5 @@ Puedes contactar conmigo por: <br>
 
 ###
 
-<p align="center">
-    <br clear="both">
-  <img src="https://raw.githubusercontent.com/Kevingedev/Kevingedev/output/snake.svg" alt="Snake animation" />
-</p>
+## 🐍 My Contributions Snake
+[![Snake animation](https://raw.githubusercontent.com/Kevingedev/Kevingedev/output/snake.svg)](https://github.com/Kevingedev/Kevingedev)
